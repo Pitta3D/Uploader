@@ -6,5 +6,5 @@
  - Detect Pitta's COM port detect
  - Reset Pitta MCU
  - Detect Bootloader's COM Port
- - Upload firmware binary file(Read -> Writing -> Verifying) to Pitta
+ - Upload firmware file(Read -> Writing -> Verifying) to Pitta
 6. Upload Complete
