@@ -7,13 +7,16 @@ Uploader for Pitta firmware file
 4. Copy firmware to uploader folder
 5. Run "uploader4pitta.bat firmware.hex" at Command Prompt
 
-   ![uploader](https://user-images.githubusercontent.com/96027590/146869664-e45f0585-9ce0-4edb-ae6b-381e9ae0f978.jpg)
+   ![uploader](https://user-images.githubusercontent.com/96027590/146873327-cd6f4dec-9353-479d-8f59-812ccccd4289.jpg)
 
    - Detect Pitta's COM port detect
    - Reset Pitta MCU
    - Detect Bootloader's COM Port
+
+   ![uploader reset](https://user-images.githubusercontent.com/96027590/146873356-63b95384-625a-4973-bc64-56e4832feb9e.jpg)
+
    - Upload firmware file (Read -> Writing -> Verifying) to Pitta
 
 6. Upload Complete
 
-   ![upload complete](https://user-images.githubusercontent.com/96027590/146871740-cda6abb6-eee2-4821-9828-cd54bc035804.jpg)
+   ![upload complete](https://user-images.githubusercontent.com/96027590/146873594-7ef655e6-be52-448f-8445-c81f4cc1b7c9.jpg)
