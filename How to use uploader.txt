@@ -1,0 +1,10 @@
+1. Connect PC and Pitta base with USB serial cable
+2. Open Windows Command Prompt at PC
+3. Change directory to uploader folder
+4. Copy firmware to uploader folder
+5. Run "uploader4pitta.bat firmware.hex" at Command Prompt
+ - Detect Pitta's COM port detect
+ - Reset Pitta MCU
+ - Detect Bootloader's COM Port
+ - Upload firmware binary file(Read -> Writing -> Verifying) to Pitta
+6. Upload Complete
