@@ -12,7 +12,7 @@ Uploader for Pitta firmware file
 6. Open Windows Command Prompt at PC
 7. Change directory to uploader tool folder
 8. Copy firmware binary file to uploader tool folder
-9. Run "uploader4pitta.bat VID PID firmware.hex" at Command Prompt
+9. Run "uploader4pitta.bat VID PID firmware" at Command Prompt (ex. uploader4pitta.bat 2341 8037 firmware.hex)
 
    ![Screenshot 2022-05-30 173818](https://user-images.githubusercontent.com/96027590/171066827-7d8df703-e556-4612-845d-ad895ef30090.jpg)
 
