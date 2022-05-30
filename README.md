@@ -26,4 +26,4 @@ Uploader for Pitta firmware file
 
 10. Upload Complete
 
-      ![upload complete](https://user-images.githubusercontent.com/96027590/171066978-8e016fd5-6af6-44c5-bdeb-bbd1338f6ac9.jpg)
+      ![complete](https://user-images.githubusercontent.com/96027590/171067110-3418f2d5-ef34-4814-96c8-f0ea97b9cd15.jpg)
