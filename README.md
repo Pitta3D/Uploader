@@ -5,21 +5,25 @@ Uploader for Pitta firmware file
 2. Disconnecting the communication cable with the 3D printer
 3. Power on the Pitta base
 4. Connect PC and Pitta base with USB serial cable
-5. Open Windows Command Prompt at PC
-6. Change directory to uploader folder
-7. Copy firmware binary file to uploader folder
-8. Run "uploader4pitta.bat firmware.hex" at Command Prompt
+5. Check and record VID and PID numbers in Device Manager
 
-   ![uploader](https://user-images.githubusercontent.com/96027590/146873327-cd6f4dec-9353-479d-8f59-812ccccd4289.jpg)
+   ![device](https://user-images.githubusercontent.com/96027590/171066714-6be7d49a-185e-4878-bcc3-f0e1faae6b1d.jpg)
+
+6. Open Windows Command Prompt at PC
+7. Change directory to uploader tool folder
+8. Copy firmware binary file to uploader tool folder
+9. Run "uploader4pitta.bat VID PID firmware.hex" at Command Prompt
+
+   ![Screenshot 2022-05-30 173818](https://user-images.githubusercontent.com/96027590/171066827-7d8df703-e556-4612-845d-ad895ef30090.jpg)
 
    - Detect Pitta's COM port detect
    - Reset Pitta MCU
    - Detect Bootloader's COM Port
 
-   ![uploader reset](https://user-images.githubusercontent.com/96027590/146873356-63b95384-625a-4973-bc64-56e4832feb9e.jpg)
+      ![Screenshot 2022-05-30 174058](https://user-images.githubusercontent.com/96027590/171066902-67b220a4-50ba-4a70-87d2-0a58c7c5d608.jpg)
 
    - Upload firmware file (Read -> Writing -> Verifying) to Pitta
 
-9. Upload Complete
+10. Upload Complete
 
-   ![upload complete](https://user-images.githubusercontent.com/96027590/146873594-7ef655e6-be52-448f-8445-c81f4cc1b7c9.jpg)
+      ![upload complete](https://user-images.githubusercontent.com/96027590/171066978-8e016fd5-6af6-44c5-bdeb-bbd1338f6ac9.jpg)
